@@ -2,4 +2,4 @@
 
 First app built from mockup challenge 1
 
-![App UI in flutter](./screenshots/app_001.png)
+<img src="./screenshots/app_001.png" width="288" alt="Moneyapp mockup on flutter"/>
